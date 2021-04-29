@@ -5,7 +5,7 @@ These are the algorithms that I created for Mech105 utilizing different methods 
 
 *Simple Electrical Circuit*
 
--This code generates a plot of a function that represents the charge on a capacitor from time t=0 to t=0.8 given different charges. 
+-This code generates a plot of a function that represents the charge on a capacitor. 
 
 *Degredation of Aqueous Bromide*
 
