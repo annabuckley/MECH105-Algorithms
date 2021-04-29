@@ -15,7 +15,7 @@ These are the algorithms that I created for Mech105 utilizing different methods 
 
 -This code determines the volume of the water in the tank based on the height of a float.
 
-*Creating special n x m matrix*
+*Special n x m matrix*
 
 -This code is a function that returns a n x m matrix with certain specified elements.
 
