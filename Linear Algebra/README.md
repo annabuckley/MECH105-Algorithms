@@ -1,4 +1,4 @@
-The following code is in the process of being completed
+**The following code is in the process of being completed**
 
 Develop a MATLAB function that determined the LU factorization of a square matrix. Must utilize partial pivoting, and error checking.
 
