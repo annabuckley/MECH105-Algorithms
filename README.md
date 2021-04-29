@@ -1,4 +1,4 @@
-# MECH105-Algorithms
+# MECH105-Algorithms(MATLAB)
 These are the algorithms that I created for Mech105 utilizing different methods of numerical methods. 
 
 ## Repository Content
